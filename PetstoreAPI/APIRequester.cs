@@ -15,8 +15,7 @@ namespace PetStoreAPI
         /// <summary>
         /// using HTTP Web request makes a request. Returns a list of PetName Objects.
         /// </summary>
-        /// <param name="url"></param>
-        /// The input URL for the program, Passed as a string because converting it to a URL is not needed. There's no editing taking place.
+        /// <param name="url">The input URL for the program, Passed as a string because converting it to a URL is not needed. There's no editing taking place.</param>
         /// <returns>
         /// A list of Pet Names that currently contains just the name.
         /// </returns>
