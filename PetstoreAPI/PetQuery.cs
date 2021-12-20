@@ -9,8 +9,7 @@ namespace PetStoreAPI
         /// <summary>
         /// Sorts through a list of PetName. Returns not null entries in reverse alphabetical order. Utilizes Linq
         /// </summary>
-        /// <param name="allPets"></param>
-        /// List of PetName returned by the web call
+        /// <param name="allPets">List of PetName returned by the web call</param>
         /// <returns>
         /// IEnumerable string, the sorted pet categories.
         /// </returns>
